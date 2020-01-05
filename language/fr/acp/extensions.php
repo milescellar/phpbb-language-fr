@@ -68,6 +68,8 @@ $lang = array_merge($lang, [
 	'EXTENSION_DELETE_DATA' => 'Supprimer les données',
 	'EXTENSION_DISABLE'     => 'Désactiver',
 	'EXTENSION_ENABLE'      => 'Activer',
+	'EXTENSION_UPDATE'      => 'Mettre à jour',
+	'EXTENSION_REMOVE'      => 'Supprimer',
 
 	'EXTENSION_DELETE_DATA_EXPLAIN' => 'La suppression des données d’une extension supprime toutes ses données et sa configuration. Les fichiers de l’extension sont conservés afin de pouvoir la réactiver ultérieurement.',
 	'EXTENSION_DISABLE_EXPLAIN'     => 'La désactivation d’une extension conserve ses fichiers, ses données et sa configuration mais supprime toutes les fonctionnalités qu’elle ajoute.',
