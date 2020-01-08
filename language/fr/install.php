@@ -48,7 +48,7 @@ $lang = array_merge($lang, [
 
 	// Support page
 	'SUPPORT_TITLE' => 'Assistance',
-	'SUPPORT_BODY'  => 'La dernière version stable de phpBB 4 vous permet de bénéficier d’une assistance complète et gratuite comprenant :</p><ul><li>l’installation</li><li>la configuration</li><li>les questions techniques</li><li>les problèmes en relation avec de potentiels bogues du logiciel</li><li>la mise à jour d’une version « Release Candidate » (RC) vers la dernière version stable</li><li>la conversion de phpBB 2.0 vers phpBB 4.0</li><li>la conversion d’un logiciel de forum de discussions vers phpBB 4.0 (veuillez consulter <a href="https://www.phpbb.com/community/viewforum.php?f=486">le forum relatif aux convertisseurs</a> (en anglais))</li></ul><p>Nous encourageons vivement les utilisateurs des versions « Beta » de phpBB 4.0 à procéder à une nouvelle installation vers la dernière version stable.</p><h2>Extensions et styles</h2><p>Concernant les problèmes relatifs aux extensions, veuillez publier vos questions dans <a href="https://www.phpbb.com/community/viewforum.php?f=451">le forum relatif aux extensions</a> (en anglais).<br>Concernant les problèmes relatifs aux styles, aux modèles et aux thèmes, veuillez publier vos questions dans <a href="https://www.phpbb.com/community/viewforum.php?f=471">le forum relatif aux styles</a> (en anglais).<br><br>Si votre question est spécifique à une archive, veuillez publier directement votre demande dans le sujet dédié à cette archive.</p><h2>Assistance</h2><p><br><a href="https://www.phpbb.com/support/">La section d’assistance</a> (en anglais)<br><a href="https://www.phpbb.com/support/docs/en/4.0/ug/quickstart/">Le guide de démarrage rapide</a> (en anglais)<br><br>Si vous souhaitez vous assurer d’être tenu au courant des dernières versions et nouveautés de notre logiciel, suivez-nous <a href="https://www.twitter.com/phpbb/">Twitter</a> (en anglais) et <a href="https://www.facebook.com/phpbb/">Facebook</a> (en anglais).<br><br>',
+	'SUPPORT_BODY'  => 'La dernière version stable de phpBB 4 vous permet de bénéficier d’une assistance complète et gratuite comprenant :</p><ul><li>l’installation</li><li>la configuration</li><li>les questions techniques</li><li>les problèmes en relation avec de potentiels bogues du logiciel</li><li>la mise à jour d’une version « Release Candidate » (RC) vers la dernière version stable</li><li>la conversion de phpBB 2.0 vers phpBB 4.0</li><li>la conversion d’un logiciel de forum de discussions vers phpBB 4.0 (veuillez consulter <a href="https://www.phpbb.com/community/viewforum.php?f=666">le forum relatif aux convertisseurs</a> (en anglais))</li></ul><p>Nous encourageons vivement les utilisateurs des versions « Beta » de phpBB 4.0 à procéder à une nouvelle installation vers la dernière version stable.</p><h2>Extensions et styles</h2><p>Concernant les problèmes relatifs aux extensions, veuillez publier vos questions dans <a href="https://www.phpbb.com/community/viewforum.php?f=451">le forum relatif aux extensions</a> (en anglais).<br>Concernant les problèmes relatifs aux styles, aux modèles et aux thèmes, veuillez publier vos questions dans <a href="https://www.phpbb.com/community/viewforum.php?f=471">le forum relatif aux styles</a> (en anglais).<br><br>Si votre question est spécifique à une archive, veuillez publier directement votre demande dans le sujet dédié à cette archive.</p><h2>Assistance</h2><p><br><a href="https://www.phpbb.com/support/">La section d’assistance</a> (en anglais)<br><a href="https://www.phpbb.com/support/docs/en/4.0/ug/quickstart/">Le guide de démarrage rapide</a> (en anglais)<br><br>Si vous souhaitez vous assurer d’être tenu au courant des dernières versions et nouveautés de notre logiciel, suivez-nous <a href="https://www.twitter.com/phpbb/">Twitter</a> (en anglais) et <a href="https://www.facebook.com/phpbb/">Facebook</a> (en anglais).<br><br>',
 
 	// License
 	'LICENSE_TITLE' => 'Licence publique générale',
@@ -69,11 +69,11 @@ $lang = array_merge($lang, [
 
 	<p>phpBB 4.0 est compatible avec les bases de données suivantes :</p>
 	<ul>
-		<li>MySQL 3.23+ (MySQLi pris en charge)</li>
-		<li>PostgreSQL 8.3+</li>
-		<li>SQLite 3.6.15+</li>
-		<li>MS SQL Server 2000+ (directement ou depuis ODBC)</li>
-		<li>MS SQL Server 2005+ (en natif)</li>
+		<li>MySQL 4.1.3 ou plus (MySQLi obligatoire)</li>
+		<li>PostgreSQL 8.3 ou plus</li>
+		<li>SQLite 3.6.15 ou plus</li>
+		<li>MS SQL Server 2000 ou plus (directement ou depuis ODBC)</li>
+		<li>MS SQL Server 2005 ou plus (en natif)</li>
 		<li>Oracle</li>
 	</ul>
 
