@@ -1,6 +1,6 @@
 # French Language Pack for [phpBB](https://www.phpbb.com/) 4.0
 
-[![Build Status](https://github.com/qiaeru/phpbb-language-fr/workflows/Validation/badge.svg?branch=master)](https://github.com/qiaeru/phpbb-language-fr/actions/) [![StyleCI](https://styleci.io/repos/70081134/shield?style=flat&branch=master)](https://styleci.io/repos/70081134)
+[![Build Status](https://github.com/qiaeru/phpbb-language-fr/workflows/Validation/badge.svg?branch=master)](https://github.com/qiaeru/phpbb-language-fr/actions?query=branch%3Amaster) [![StyleCI](https://styleci.io/repos/70081134/shield?style=flat&branch=master)](https://styleci.io/repos/70081134)
 
 French language pack to localise the phpBB 4.0 forum software.
 
